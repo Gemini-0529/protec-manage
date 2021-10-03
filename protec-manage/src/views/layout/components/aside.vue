@@ -20,7 +20,7 @@
     </el-menu-item>
     <el-menu-item index="/setting">
       <i class="el-icon-setting"></i>
-      <span slot="title">设置</span>
+      <span slot="title">系统设置</span>
     </el-menu-item>
   </el-menu>
 </template>
